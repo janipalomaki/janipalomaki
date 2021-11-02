@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janipalomaki
-My portfolio includes websites, web apps, and e-commerce platforms.
+My portfolio includes websites, apps, and e-commerce platforms.
 
 <!---
 janipalomaki/janipalomaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
