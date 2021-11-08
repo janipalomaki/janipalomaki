@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jani.
-I'm creating websites, e-commerce platforms, web apps and mobile apps.
+I'm creating digital platforms such as websites, e-commerce platforms, web apps and mobile apps. 
 
 <!---
 janipalomaki/janipalomaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
