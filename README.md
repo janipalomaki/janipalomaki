@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jani.
+- 👋 Hi, I’m Jani!
 I'm creating digital platforms such as websites, web apps and mobile apps. <br>
 Here you can find some of my works which I have created on my freetime.
 
